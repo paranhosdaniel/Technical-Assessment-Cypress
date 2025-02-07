@@ -9,9 +9,9 @@ This repository contains solutions for the **Technical Assessment**, focusing on
 
 ---
 
-## 🚀 Setup and Instructions
+## Setup and Instructions
 
-### **1️⃣ Clone the Repository**
+### **Clone the Repository**
 Clone this repository to your local machine:
 ```bash
 git clone https://github.com/paranhosdaniel/Technical-Assessment-Cypress.git
